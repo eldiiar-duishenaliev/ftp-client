@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+ruff_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Build output
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Local tooling
+.memsearch/
+.opencode/
+
+# Local QA screenshot (binary; add intentionally if you want it published)
+docs/screenshot.png
