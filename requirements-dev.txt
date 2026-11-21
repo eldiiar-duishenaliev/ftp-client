@@ -1,0 +1,5 @@
+-r requirements.txt
+pyftpdlib>=2.0
+pyopenssl>=24
+Pillow>=10
+ruff>=0.6
